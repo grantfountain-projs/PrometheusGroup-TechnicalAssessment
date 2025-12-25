@@ -1,0 +1,6 @@
+@PG_TechnicalAssessment_HostAddress = http://localhost:5196
+
+GET {{PG_TechnicalAssessment_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
