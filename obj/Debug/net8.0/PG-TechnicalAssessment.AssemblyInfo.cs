@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PG-TechnicalAssessment")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f48745979195a5189f503437683cf69231a4443d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cc4756580ac0eef56820801adf21d4ae4d1a32ca")]
 [assembly: System.Reflection.AssemblyProductAttribute("PG-TechnicalAssessment")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PG-TechnicalAssessment")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
